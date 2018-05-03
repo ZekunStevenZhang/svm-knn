@@ -1,5 +1,7 @@
 NCSU ECE759 course final project: 
+
 Classfication by two algorithms svm and knn.
+
 The datasets used in this project are MNIST and Caltech 10.
 
 # svm-knn
